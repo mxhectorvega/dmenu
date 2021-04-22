@@ -4,8 +4,8 @@
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"SF Pro Display:size=12",
-	"Font Awesome 5 Free:pixelsize=14:antialias=true:autohint=true"
+	"SF Pro Display:size=10",
+	"Font Awesome 5 Free:pixelsize=12:antialias=true:autohint=true"
 };
 static const unsigned int bgalpha = 0xd0;
 static const unsigned int fgalpha = OPAQUE;
